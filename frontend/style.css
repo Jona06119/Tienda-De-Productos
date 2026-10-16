@@ -1,0 +1,16 @@
+body{
+    background-color: #fff3cd;
+    font-family: 'Poppins', sans-serif;
+}
+
+.card{
+    border: 3px solid pink;
+}
+
+h2{
+    color: blue;
+}
+
+.btn-danger{
+    background-color: red;
+}
